@@ -35,7 +35,7 @@ Built entirely in C, this project showcases practical use of **linked lists**, *
 ## 📎 Resources
 
 - 📘 [User Guide](https://github.com/UtsavUpadhyay5002/StudentManagementSystem/blob/main/Student%20Grade%20Management%20System%20-%20User%20Guide.pdf)  
-- 📊 [Final Presentation Slides](./Student_Grade_Management_System_Presentation.pdf)  
+- 📊 [Final Presentation Slides](https://github.com/UtsavUpadhyay5002/StudentManagementSystem/blob/main/Student%20Grade%20Management%20System%20-%20Presentation.pdf)  
 - 📝 [Final Project Report](https://github.com/UtsavUpadhyay5002/StudentManagementSystem/blob/main/STUDENT%20GRADE%20MANAGEMENT%20SYSTEM%20-%20Final%20Report.pdf)  
 
 ## 📌 Known Limitations
